@@ -1,6 +1,6 @@
 ---
-name: Lionell Loh 
-institution: Singapore University of Technology and Design
-quote: //TODO: Write something witty here 
-github_user: lionellloh
+name: Devarsh Panchal
+institution: Sardar Vallabhbhai Patel Institute of Technology, Vasad
+quote: Genius is one percent inspiration, ninety-nine percent perspiration.
+github_user: letscodedev
 ---
